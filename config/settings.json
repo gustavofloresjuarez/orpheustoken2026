@@ -1,7 +1,7 @@
 {
     "global": {
         "general": {
-            "download_path": "./downloads/",
+            "download_path": "/content/drive/MyDrive/Hi-Res",
             "download_quality": "hifi",
             "search_limit": 10
         },
